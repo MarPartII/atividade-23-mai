@@ -1,8 +1,12 @@
-
-#inicio
-
-numeros = (input(""))
-x = 10
-y = 15
-resultado = (x + y) 
-print("resultado é ",resultado)
+#var
+print("bem vindo a masmora de notas sombria")
+print("você esta sozinho em uma prisão")
+escolha = int (input("ficar(1) ou sair(2)"))
+morte = str (input(""))
+if escolha == 1:
+  print("você ficou na prisão e esperoumas a unica coisa que veio foi a morte",morte)
+  
+elif escolha == 2:
+  print("você se levanta, e nota que a porta está levemente aberta te deixando sair...")
+  print("")
+  
