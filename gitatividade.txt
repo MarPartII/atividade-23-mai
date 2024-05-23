@@ -1,0 +1,8 @@
+
+#inicio
+
+numeros = (input(""))
+x = 10
+y = 15
+resultado = (x + y) 
+print("resultado é ",resultado)
